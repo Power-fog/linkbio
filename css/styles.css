@@ -82,10 +82,8 @@ body {
         display: none;
     }
     
-    .copy {
-        position: absolute;
-        bottom: 8px;
-        width: 100%;
+    .sub {
+        margin-bottom: 67px;
     }
 }
 
