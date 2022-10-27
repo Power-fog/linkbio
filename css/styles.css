@@ -1,6 +1,11 @@
+html {
+    min-width: auto;
+}
+
 body {
     margin: 0;
     text-align: center;
+    min-width: auto;
 }
 
 .sub {
@@ -95,8 +100,6 @@ body {
     body {
         background: url("../imgs/desk.png");
         background-size: cover;
-        width: 100%;
-        min-width: 100%;
     }
 
     .logo {
