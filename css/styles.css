@@ -1,11 +1,11 @@
 html {
-    min-width: auto;
+    min-width: 100vh;
 }
 
 body {
     margin: 0;
     text-align: center;
-    min-width: auto;
+    min-width: 100vh;
 }
 
 .sub {
