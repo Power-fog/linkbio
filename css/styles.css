@@ -117,7 +117,8 @@ body {
         justify-content: center;
         display: flex;
         flex-direction: row;
-        /* width: 100vw; */
+        width: 100vw;
+        min-width: 100vw
     }
 
     .btn img {
