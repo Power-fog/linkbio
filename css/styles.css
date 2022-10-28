@@ -84,12 +84,6 @@ body {
         display: none;
     }
 
-    .copy {
-        position: absolute;
-        bottom: 5px;
-        margin-left: 9%;
-    }
-
 }
 
 @media (min-width: 480px) {
