@@ -83,7 +83,10 @@ body {
     .buttonsD {
         display: none;
     }
-
+    
+    .copy {
+        margin-left: 7%;
+    }
 }
 
 @media (min-width: 480px) {
