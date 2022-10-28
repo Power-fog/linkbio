@@ -85,7 +85,9 @@ body {
     }
     
     .copy {
-        margin-left: 5.7%;
+        position: absolute;
+        bottom: 1px;
+        margin-left: 8%;
     }
 }
 
