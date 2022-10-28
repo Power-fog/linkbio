@@ -85,9 +85,7 @@ body {
     }
     
     .copy {
-        position: absolute;
-        bottom: 1px;
-        margin-left: 15%;
+        font-size: 7px;
     }
 }
 
